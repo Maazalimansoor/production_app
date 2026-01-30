@@ -1,0 +1,5 @@
+pip freeze > requirements.txt
+streamlit
+pandas
+plotly
+graphviz
